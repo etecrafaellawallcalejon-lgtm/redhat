@@ -1,0 +1,9 @@
+{
+  "name": "RedChat",
+  "description": "Aplicativo completo de mensagens instantâneas em tempo real com identidade visual vermelho e preto inspirado na organização do Discord.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
